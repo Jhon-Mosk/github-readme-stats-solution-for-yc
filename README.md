@@ -19,7 +19,7 @@
 
 ## Подготовьте ресурсы
 
-1. Скачайте архив `github-stats-api.zip`.
+1. Скачайте архив [github-stats-api.zip](backend/functions/github-stats-api/github-stats-api.7z).
 2. [Создайте](https://cloud.yandex.ru/docs/iam/operations/sa/create) сервисный аккаунт и [назначьте ему роль](https://cloud.yandex.ru/docs/iam/operations/sa/assign-role-for-sa) `admin` на ваш каталог.
 
 ---
@@ -77,7 +77,7 @@ If you have an active billing account, you can go to the cloud page to create or
 
 ## Prepare resources
 
-Download the `github-stats-api.zip` archive.
+Download the [github-stats-api.zip](backend/functions/github-stats-api/github-stats-api.7z) archive.
 [Create](https://cloud.yandex.com/en/docs/iam/operations/sa/create) a service account and [assign](https://cloud.yandex.com/en/docs/iam/operations/sa/assign-role-for-sa) it admin roles for your directory.
 
 ---

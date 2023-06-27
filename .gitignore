@@ -1,0 +1,7 @@
+temp
+*.todo
+node_modules
+*.env
+*.sh
+spec.yaml
+test.js
